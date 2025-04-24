@@ -1,9 +1,12 @@
 # Welcome!
 
 Thanks for checking out my paper on using the ChatGPT API from SAS.
-I hope you find it useful, or at least interesting 🙂
+I hope you find it useful, or at least interesting.
 
 Feel free to get in touch if you experience any issues or just want to discuss anything.
+
+Also, don't mind the strange formatting markups in the notebook.
+They are an artifact of my publishing process 🙂
 
 ## Getting Started
 
