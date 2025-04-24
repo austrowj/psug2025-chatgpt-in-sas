@@ -31,7 +31,7 @@ py -m venv .venv; .venv/Scripts/Activate; pip install -r requirements.txt
 
 And in Linux:
 ```sh
-python -m venv .venv && .venv/bin/activate && pip install -r requirements.txt
+python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt
 ```
 
 You will then need to configure the provided sascfg.py according to your specific system.
