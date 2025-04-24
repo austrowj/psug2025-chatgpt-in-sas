@@ -37,6 +37,11 @@ python -m venv .venv && source .venv/bin/activate && pip install -r requirements
 You will then need to configure the provided sascfg.py according to your specific system.
 Refer to https://sassoftware.github.io/saspy/configuration.html for details.
 
-After that, you should be good to go!
+After that, you should be good to go! Launch jupyter by typing
+```sh
+jupyter-lab
+```
+and open `notebook.ipynb`.
+
 Note that the early sections include a few hardcoded file paths which almost certainly won't work out of the box for you.
 Feel free to modify them or just don't run those cells.
