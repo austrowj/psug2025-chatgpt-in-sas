@@ -1,9 +1,9 @@
 # Welcome!
 
-Thanks for checking out my paper on using the ChatGPT API from SAS.
+Thanks for checking out my paper on using the ChatGPT and DeepSeek APIs from SAS.
 I hope you find it useful, or at least interesting.
 
-Feel free to get in touch if you experience any issues or just want to discuss anything.
+Feel free to get in touch if you experience any issues or just want to discuss the project.
 
 Also, don't mind the strange formatting markup in the notebook.
 It is an artifact of my publishing process 🙂
@@ -45,3 +45,16 @@ and open `notebook.ipynb`.
 
 Note that the early sections include a few hardcoded file paths which almost certainly won't work out of the box for you.
 Feel free to modify them or just don't run those cells.
+
+## Exercise Ideas
+
+Prompt Engineering:
+- Investigate the effects of the other prompt parameters
+- Complete the prompt chaining example by automatically forwarding responses to the next prompt
+- Apply language models and prompt engineering to another data transformation task
+- Read the prompting guides in the references and experiment with the other techniques described there
+
+Infrastructure:
+- Modify the API client to work with other model providers (Claude, Gemini, ...)
+- Follow the API documentation links in "Additional Reading" and try out some of the other endpoints
+- Build out a prompt testing framework with expected outputs
